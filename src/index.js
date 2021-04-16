@@ -1,6 +1,6 @@
-import Paddle from '../src/paddle.js';
-import InputHandler from '../src/input.js';
-import Ball from '../src/ball.js';
+import Paddle from '/paddle-game/src/paddle.js';
+import InputHandler from '/paddle-game/src/input.js';
+import Ball from '/paddle-game/src/ball.js';
 
 let canvas = document.getElementById('gameScreen');
 
